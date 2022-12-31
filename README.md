@@ -18,3 +18,6 @@ Created in Python (TK Inter), this small software allows students to search any 
 <li><b>Clear Html </b> - <i>clearing the entire HTML page </i>
 <li><b>Save HTML </b> - <i>searching for data given in the HTML file </i>
 <li><b>Basic Code </b> - <i>Entering basic codes before searching data </i>
+
+ 
+<h2 style="color: #ff0000;">ISSUES<h2>
