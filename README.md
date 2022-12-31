@@ -21,4 +21,5 @@ Created in Python (TK Inter), this small software allows students to search any 
 
  
 <h2 style="color: #ff0000;">ISSUES<h2>
- no issues
+ <li><i> Given the data, calculate it and search data without basic code, no style can be seen. </i></li>
+ <li><i> </li><i>
