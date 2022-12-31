@@ -1,4 +1,4 @@
-# Python-Student-Data-Viewer-HTML-
+# Python-Student-Data-Viewer-HTML
 Created in Python (TK Inter), this small software allows students to search any amount of data in an HTML page.
 
 <li>First download all the files into a single folder.</li> 
@@ -12,3 +12,9 @@ Created in Python (TK Inter), this small software allows students to search any 
 <li>Press the Calculate button to calculate</li>
 <li>Finally, by providing the search html, the web page will be searched.</li>
 
+<h2>Button and action</h2>
+<li><b>Calculate </b> - <i> </i>
+<li><b>Clear Data </b> - <i> </i>
+<li><b>Clear Html </b> - <i> </i>
+<li><b>Save HTML </b> - <i> </i>
+<li><b>Basic Code </b> - <i> </i>
