@@ -23,3 +23,6 @@ Created in Python (TK Inter), this small software allows students to search any 
 <h2 style="color: #ff0000;">ISSUES</h2>
  <li><i> Given the data, calculate it and search data without basic code, no style can be seen. </i></li>
  <li><i> Double pressing the BASIC CODE button may change the displayed data</li><i>
+
+<h2>Softwera Interface</h2>
+<img src="userInteface.png"/>
