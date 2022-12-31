@@ -21,3 +21,4 @@ Created in Python (TK Inter), this small software allows students to search any 
 
  
 <h2 style="color: #ff0000;">ISSUES<h2>
+ no issues
