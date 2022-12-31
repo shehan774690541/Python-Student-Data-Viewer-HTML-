@@ -26,3 +26,6 @@ Created in Python (TK Inter), this small software allows students to search any 
 
 <h2>Softwera Interface</h2>
 <img src="userInteface.png"/>
+ 
+<h2>Data Sheet</h2>
+<img src="DataView.png"/>
