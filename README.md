@@ -13,8 +13,8 @@ Created in Python (TK Inter), this small software allows students to search any 
 <li>Finally, by providing the search html, the web page will be searched.</li>
 
 <h2>Button and action</h2>
-<li><b>Calculate </b> - <i> </i>
-<li><b>Clear Data </b> - <i> </i>
-<li><b>Clear Html </b> - <i> </i>
-<li><b>Save HTML </b> - <i> </i>
-<li><b>Basic Code </b> - <i> </i>
+<li><b>Calculate </b> - <i>Obtaining the sum, average and standard deviation of the given data </i>
+<li><b>Clear Data </b> - <i>clearing the data used in the software </i>
+<li><b>Clear Html </b> - <i>clearing the entire HTML page </i>
+<li><b>Save HTML </b> - <i>searching for data given in the HTML file </i>
+<li><b>Basic Code </b> - <i>Entering basic codes before searching data </i>
