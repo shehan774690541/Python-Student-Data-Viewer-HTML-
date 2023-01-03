@@ -4,6 +4,9 @@ Created in Python (TK Inter), this small software allows students to search any 
 <li>First download all the files into a single folder.</li> 
 <li>After that, if Python is installed, open the main.py file using your IDLE</li>
 <li>After that run the code</li>
+<li>form.py & tempCodeRunnerFile.py - For the windows</li>
+<li></li>
+
 <h2>How to use the software </h2>
 <li>Open the software</li>
 <li>Click the Basic Code button to generate the HTML file</li>
