@@ -5,7 +5,7 @@ Created in Python (TK Inter), this small software allows students to search any 
 <li>After that, if Python is installed, open the main.py file using your IDLE</li>
 <li>After that run the code</li>
 <li>form.py & tempCodeRunnerFile.py - For the windows</li>
-<li></li>
+<li>main.py & pCal.py - for the mobile</li>
 
 <h2>How to use the software </h2>
 <li>Open the software</li>
